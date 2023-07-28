@@ -56,3 +56,6 @@ dependencies:
   # Autograding
   - matplotcheck>=0.1.3
   - nbgrader
+
+  # Downloading files
+  - wget
